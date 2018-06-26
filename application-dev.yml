@@ -1,5 +1,2 @@
 foo:
     foo version 3
-
-service:
-    port: 8080
